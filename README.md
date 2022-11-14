@@ -8,7 +8,6 @@ Um projeto com arquivo README 🚀
 - HTML
 - CSS
 - JS
-- Hadouken
 
 ### Como utilizar 
 
